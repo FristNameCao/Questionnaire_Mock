@@ -92,15 +92,15 @@ function getComponentList() {
                 isVertical: false,
                 options: [
                     {
-                        value: "选项1",
+                        value: "item1",
                         text: "选项1"
                     },
                     {
-                        value: "选项2",
+                        value: "item2",
                         text: "选项2"
                     },
                     {
-                        value: "选项3",
+                        value: "item3",
                         text: "选项3"
                     },
                 ],
@@ -120,15 +120,15 @@ function getComponentList() {
                 isVertical: false,
                 list: [
                     {
-                        value: "选项1",
+                        value: "item1",
                         text: "选项1"
                     },
                     {
-                        value: "选项2",
+                        value: "item2",
                         text: "选项2"
                     },
                     {
-                        value: "选项3",
+                        value: "item3",
                         text: "选项3"
                     },
                 ],
